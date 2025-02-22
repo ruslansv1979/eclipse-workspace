@@ -1,7 +1,7 @@
 # Prerequisites
 *.d
 
-# Compiled Object files
+# Compiled Object fileshttps://github.com/ruslansv1979/eclipse-workspace/blob/main/.gitignore
 *.slo
 *.lo
 *.o
@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+# Игнорируем директорию в любой директории проекта
+build/
